@@ -1,0 +1,10 @@
+Person --> Name: xpto Idade: 36 Altura: 1.680000
+Person --> Name: xpto Idade: 37 Altura: 1.710000
+Person --> Name: xpto Idade: 38 Altura: 1.740000
+Person --> Name: xpto Idade: 39 Altura: 1.770000
+Person --> Name: xpto Idade: 40 Altura: 1.800000
+Person --> Name: xpto Idade: 41 Altura: 1.830000
+Person --> Name: xpto Idade: 42 Altura: 1.860000
+Person --> Name: xpto Idade: 43 Altura: 1.890000
+Person --> Name: xpto Idade: 44 Altura: 1.920000
+Person --> Name: xpto Idade: 45 Altura: 1.950000
